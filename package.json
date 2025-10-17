@@ -1,8 +1,8 @@
 {
   "name": "scarletlauncher",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "productName": "Scarlet Launcher",
-  "description": "Modded Minecraft Launcher",
+  "description": "Launcher pour le serveur ScarletBrotherhood",
   "author": "Daniel Scalzi (https://github.com/dscalzi/), Kirbe",
   "license": "UNLICENSED",
   "homepage": "https://github.com/Kirbeeey/ScarletBrotherhood",

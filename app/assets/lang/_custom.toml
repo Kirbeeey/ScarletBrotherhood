@@ -1,7 +1,7 @@
 # Custom Language File for Launcher Customizer
 
 [ejs.app]
-title = "Helios Launcher"
+title = "Scarlet Launcher"
 
 [ejs.landing]
 mediaGitHubURL = "https://github.com/Kirbeeey/ScarletBrotherhood"
@@ -15,6 +15,6 @@ sourceGithubLink = "https://github.com/Kirbeeey/ScarletBrotherhood"
 supportLink = "https://github.com/Kirbeeey/ScarletBrotherhood"
 
 [ejs.welcome]
-welcomeHeader = "Bienvenu sur le launcher !"
-welcomeDescription = "Bienvenu sur la V2 du serveur ! Merci à Romarin d'héberger le serveur chez lui ! Et nous avons un launcher cette fois-ci !"
-welcomeDescCTA = "Préparez vous à découvrir le modpack AT2 (avec des TARDIS)"
+welcomeHeader = "Bienvenue sur le launcher !"
+welcomeDescription = "Bienvenue sur la V2 du serveur ! Merci à Romarin d'héberger le serveur chez lui ! Et nous avons un launcher cette fois-ci !"
+welcomeDescCTA = "Préparez vous à découvrir le modpack ATM6 (avec des TARDIS)"
